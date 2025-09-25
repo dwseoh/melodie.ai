@@ -1,0 +1,7 @@
+src/__pycache__/
+checkpoints/
+checkpoints2/
+.venv/
+data/
+env/
+notebooks/
