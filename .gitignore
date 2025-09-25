@@ -5,3 +5,7 @@ checkpoints2/
 data/
 env/
 notebooks/
+src/model.py
+src/train.py
+src/generate.py
+src/trainold.py

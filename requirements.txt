@@ -4,3 +4,4 @@ torch
 jupyter
 numpy
 matplotlib
+tensorflow
