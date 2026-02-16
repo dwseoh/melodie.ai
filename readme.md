@@ -2,6 +2,9 @@
 
 > Melodie.ai was developed with PyTorch and the nottingham dataset. It was trained to recognize the pattern between the pitch, duration, rests, and more to create a musical melody that is memorable and has potential to use for inspiration for a composition project.
 
+> [!WARNING]
+> V2 in progress. It will use a different training pipeline and produce multi-voice music.
+
 ### How to run locally:
 
 #### 1. Create a virtual environment
